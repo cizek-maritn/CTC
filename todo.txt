@@ -1,0 +1,3 @@
+random number generation
+figure out how tf time works
+fronty pomocí concurrence
