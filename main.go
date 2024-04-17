@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"log"
+	"math/rand/v2"
 	"os"
 	"strings"
 )
@@ -45,8 +46,16 @@ func save(lines []string, path string) error {
 	return w.Flush()
 }
 
+func randRange(min, max int) int {
+	return rand.IntN(max-min+1) + min
+}
+
 func main() {
 	config := loadConfig("config.txt")
+
+	fmt.Println(randRange(1, 5))
+	fmt.Println((randRange(1, 5)))
+	fmt.Println((randRange(1, 5)))
 
 	save(config, "results.txt")
 
