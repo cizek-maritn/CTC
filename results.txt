@@ -1,18 +1,26 @@
-15000
-1ms
-2ms
-2
-2ms
-5ms
-2
-3ms
-6ms
-1
-4ms
-7ms
-1
-5ms
-10ms
-2
-1ms
-3ms
+stations:
+gas:
+total_cars: 24957
+total_queue_time: 6m32.464s
+average_queue_time: 15.725608ms
+max_queue_time: 444ms
+diesel:
+total_cars: 25131
+total_queue_time: 6m34.68s
+average_queue_time: 15.704906ms
+max_queue_time: 251ms
+lpg:
+total_cars: 24954
+total_queue_time: 6m34.353s
+average_queue_time: 15.803197ms
+max_queue_time: 297ms
+electric:
+total_cars: 24958
+total_queue_time: 6m32.913s
+average_queue_time: 15.742968ms
+max_queue_time: 224ms
+registers:
+total_cars: 100000
+total_queue_time: 26m25.228s
+average_queue_time: 15.85228ms
+max_queue_time: 444ms
