@@ -1,3 +1,0 @@
-random number generation - očividně to je nějakým bohovi neznámým způsobem desetinný číslo (not complaining)
-figure out how tf time works - asi to chápu
-fronty pomocí concurrence - základ hotovej
