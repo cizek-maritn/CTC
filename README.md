@@ -1,4 +1,5 @@
 # CTC
 
 Cloudové Technologie
-snad to dodělám včas lol
+
+Semestrální práce z předmětu CTC, simulace benzínky pomocí Go lang.
